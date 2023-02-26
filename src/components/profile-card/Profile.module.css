@@ -1,0 +1,45 @@
+.profile {
+  width: 300px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  border: 5px solid whitesmoke;
+}
+
+.description {
+  background-color: whitesmoke;
+  padding: 10px 0;
+}
+
+.name {
+  font-size: x-large;
+}
+.label {
+  font-size: large;
+  color: gray;
+}
+
+.quantity {
+  font-size: x-large;
+}
+
+.avatar {
+  width: 300px;
+  border-radius: 50px;
+}
+
+.stats {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2eded;
+  gap: 20px;
+  padding: 10px 0;
+}
+
+.stats > li {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

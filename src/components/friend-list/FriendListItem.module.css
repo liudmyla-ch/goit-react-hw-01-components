@@ -1,0 +1,18 @@
+.statusOnline {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: green;
+    display: inline-block;
+    margin-right: 8px;
+  }
+  
+  .statusOffline {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: red;
+    display: inline-block;
+    margin-right: 8px;
+  }
+  
