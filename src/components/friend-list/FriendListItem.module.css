@@ -15,4 +15,24 @@
     display: inline-block;
     margin-right: 8px;
   }
+.item{
+  display: flex;
+  align-items: center;
+background-color: whitesmoke;
+margin: 20px auto;
+width: 300px;
+padding:  10px;
+border-radius: 5px;
+
+}  
+
+.avatar{
+  width: 100px;
+
+  background-color:  #f2eded;
   
+}
+.name{
+  font-size: x-large;
+  margin-left: 10px;
+}
